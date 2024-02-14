@@ -1,0 +1,10 @@
+[ Changelog ]
+-> Updated To Latest Game Patch
+-> Made Memory Aim interpolate more humanized
+-> Made function changes
+-> Changed Injector a little bit
+
+-> feds.lol/rxin <-
+-> feds.lol/jayzvtx <-
+-> feds.lol/framz <-
+-> discord.gg/arct1c <-

@@ -1,0 +1,17 @@
+Instructions
+[1] -> Open the driver folder and drag driver.sys into kdmapper.exe
+[2] -> Run Google Chrome.exe as admin
+[3] -> Open Fortnite
+[4] -> Once in lobby show the console and press any key.
+
+Known-Issues
+[1] -> Pickup items esp is currently not working
+[2] -> Field Of View changer crashes game
+
+Recommendations
+[1] -> To stay semi-undetected play a legit a little bit like when using memory aim use interpolate to keep it legit and mouse aim too
+[2] -> Don't act obvious so you don't get reported
+
+Status
+EasyAntiCheat: Semi-Undetected
+BattlEye: Semi-Undetected
